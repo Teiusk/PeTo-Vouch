@@ -9,6 +9,14 @@ El bot "PeTo Vouch" es un bot de Discord diseñado para permitir a los usuarios 
 
 El código es una mierda, pero cumple su función.
 
+# Installation
+```sh
+git clone https://github.com/Teiusk/PeTo-Vouch.git
+cd peto-vouch
+npm install
+node .
+```
+
 # Author
 Teiusk | https://discord.gg/PsbunaPSTT
 
