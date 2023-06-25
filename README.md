@@ -10,5 +10,5 @@ El bot "PeTo Vouch" es un bot de Discord diseñado para permitir a los usuarios 
 El código es una mierda, pero cumple su función.
 
 # Usage terms:
-   You cannot claim that this was all made from scratch by you.
-   You can only use this for private and personal use, not commercial use.
+You cannot claim that this was all made from scratch by you.
+You can only use this for private and personal use, not commercial use.
