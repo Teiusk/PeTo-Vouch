@@ -1,0 +1,17 @@
+{
+    "BOT_TOKEN": "Your Token",
+    "output_channel_id": "ID DEL CANAL DONDE SE VERAN LOS VOUCH",
+    "productos": [
+      "Practice Setup",
+      "MobRewardsPlus",
+      "DeluxeTags/Menu",
+      "Exclusive ClearLag"
+    ],
+    "roles": {
+      "Practice Setup": "ID DE LOS ROLES", 
+      "MobRewardsPlus": "1122315821750956082",
+      "DeluxeTags/Menu": "1122315456473214996",
+      "Exclusive ClearLag": "1122315754373660753"
+    }
+  }
+  
