@@ -18,7 +18,7 @@ node .
 ```
 
 # Author
-Teiusk | https://discord.gg/PsbunaPSTT
+**Teiusk** [Discord](https://discord.gg/PsbunaPSTT)
 
 # Usage terms:
 You cannot claim that this was all made from scratch by you.                                                                                                 
